@@ -1,0 +1,1791 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "C# Language Feature Status",
+          "description": "This document reflects the status, and planned work in progress, for the compiler team. It is a live document and will be updated as work progresses, features are added/removed, and work on features progresses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:48:05Z",
+            "owner": "dotnet",
+            "repo": "roslyn",
+            "stars": 20610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Official repository for C# language",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T14:23:39Z",
+            "owner": "dotnet",
+            "repo": "csharplang",
+            "stars": 12679
+          }
+        }
+      ],
+      "title": "📖 Documentation"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Visual Studio Code",
+          "description": "🎨 A curated list of delightful VS Code packages and resources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-21T09:36:55Z",
+            "owner": "viatsko",
+            "repo": "awesome-vscode",
+            "stars": 28953
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MonoDevelop",
+          "description": "A cross-platform .NET IDE.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2021-10-04T08:31:06Z",
+            "owner": "mono",
+            "repo": "monodevelop",
+            "stars": 2901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Visual Studio",
+          "description": "A curated list of awesomeness for Visual Studio IDE.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2017-11-30T20:20:34Z",
+            "owner": "egeerardyn",
+            "repo": "awesome-visual-studio",
+            "stars": 31
+          }
+        }
+      ],
+      "title": "💻 IDE"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Free books on C# programming",
+          "description": "A not-for-profit organization devoted to promoting the creation, distribution, archiving, and sustainability of free ebooks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T12:11:06Z",
+            "owner": "EbookFoundation",
+            "repo": "free-programming-books",
+            "stars": 394280
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASP.NET Core Developer Roadmap",
+          "description": "Roadmap to becoming an ASP.NET Core developer in 2021.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-29T14:44:09Z",
+            "owner": "MoienTajik",
+            "repo": "AspNetCore-Developer-Roadmap",
+            "stars": 19633
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Samples for ASP.NET Core 5.0",
+          "description": "Practical samples of ASP.NET Core 2.1, 2.2, 3.1, 5.0 and 6.0 Preview 5 projects you can use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T14:55:14Z",
+            "owner": "dodyg",
+            "repo": "practical-aspnetcore",
+            "stars": 10406
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "The Algorithms C-Sharp",
+          "description": "This repository contains algorithms and data structures implemented in C# for educational purposes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-11-16T18:24:30Z",
+            "owner": "TheAlgorithms",
+            "repo": "C-Sharp",
+            "stars": 8170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clean code concepts adapted for .NET/.NET Core",
+          "description": "🛁 Clean Code concepts and tools adapted for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-27T03:58:00Z",
+            "owner": "thangchung",
+            "repo": "clean-code-dotnet",
+            "stars": 7717
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "C-Sharp-Algorithms",
+          "description": "📚 📈 Plug-and-play class-library project of standard Data Structures and Algorithms in C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-05T17:05:56Z",
+            "owner": "aalhour",
+            "repo": "C-Sharp-Algorithms",
+            "stars": 6170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clean Architecture with .NET Core & React+Redux",
+          "description": "Sample implementation of the Clean Architecture Principles with .NET Core. Use cases as a central organizing structure, decoupled from frameworks and technology details. Built by small components that are developed and tested in isolation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-22T09:52:34Z",
+            "owner": "ivanpaulovich",
+            "repo": "clean-architecture-manga",
+            "stars": 4354
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Try .NET",
+          "description": "Try .NET provides developers and content authors with tools to create interactive experiences.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "TypeScript",
+            "last_commit": "2025-12-03T01:28:29Z",
+            "owner": "dotnet",
+            "repo": "try",
+            "stars": 3015
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSharp-From-Zero-To-Hero",
+          "description": "\"Programming is hard only until you practice it (like any other skill).\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-11T19:45:48Z",
+            "owner": "Almantask",
+            "repo": "CSharp-From-Zero-To-Hero",
+            "stars": 1564
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exercism C# Track",
+          "description": "Join other students on the Exercism C# track.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-27T13:24:38Z",
+            "owner": "exercism",
+            "repo": "csharp",
+            "stars": 427
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KoduGameLab",
+          "description": "3D game development tool for teaching basic programming concepts to kids.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-04-12T07:30:25Z",
+            "owner": "microsoft",
+            "repo": "KoduGameLab",
+            "stars": 35
+          }
+        }
+      ],
+      "title": "📚 Learn"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mono",
+          "description": "An open-source implementation of Microsoft's .NET Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-08-27T16:49:28Z",
+            "owner": "mono",
+            "repo": "mono",
+            "stars": 11462
+          }
+        },
+        {
+          "node_type": "group",
+          "title": ".NET",
+          "description": null,
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Roslyn",
+              "description": "The open-source implementation of both the C# and Visual Basic compilers with an API surface for building code analysis tools.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2026-08-13T03:48:05Z",
+                "owner": "dotnet",
+                "repo": "roslyn",
+                "stars": 20610
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ".NET Runtime",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": "C#",
+                "last_commit": "2026-08-13T03:16:26Z",
+                "owner": "dotnet",
+                "repo": "runtime",
+                "stars": 18207
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ".NET Core SDK",
+              "description": "The source code for the cross-platform .NET Core SDK.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "language": null,
+                "last_commit": "2026-08-13T01:04:59Z",
+                "owner": "dotnet",
+                "repo": "installer",
+                "stars": 1268
+              }
+            }
+          ]
+        }
+      ],
+      "title": "🌐 Platforms"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Lean",
+          "description": "An open-source algorithmic trading engine built for easy strategy research, backtesting and live trading. We integrate with common data providers and brokerages so you can quickly deploy algorithmic trading strategies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T22:36:04Z",
+            "owner": "QuantConnect",
+            "repo": "Lean",
+            "stars": 21189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dapper",
+          "description": "A simple object mapper.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-16T20:40:17Z",
+            "owner": "DapperLib",
+            "repo": "Dapper",
+            "stars": 18366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polly",
+          "description": "Express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T15:04:23Z",
+            "owner": "App-vNext",
+            "repo": "Polly",
+            "stars": 14225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ASP.NET Boilerplate",
+          "description": "A general-purpose application framework specially designed for new modern web applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-28T09:01:16Z",
+            "owner": "aspnetboilerplate",
+            "repo": "aspnetboilerplate",
+            "stars": 11999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MediatR",
+          "description": "Simple, unambitious mediator implementation in .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-02T13:51:06Z",
+            "owner": "LuckyPennySoftware",
+            "repo": "MediatR",
+            "stars": 11857
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spectre.Console",
+          "description": "A .NET 5/.NET Standard 2.0 library that makes it easier to create beautiful, cross-platform, console applications. It is heavily inspired by the excellent Rich library for Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T14:01:31Z",
+            "owner": "spectreconsole",
+            "repo": "spectre.console",
+            "stars": 11584
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BenchmarkDotNet",
+          "description": "Helps you to transform methods into benchmarks, track their performance, and share reproducible measurement experiments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T01:33:47Z",
+            "owner": "dotnet",
+            "repo": "BenchmarkDotNet",
+            "stars": 11472
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Json.Net",
+          "description": "Json.NET is a popular high-performance JSON framework for .NET",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T14:52:36Z",
+            "owner": "JamesNK",
+            "repo": "Newtonsoft.Json",
+            "stars": 11311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orleans",
+          "description": "Cross-platform framework for building distributed applications with .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T21:40:12Z",
+            "owner": "dotnet",
+            "repo": "orleans",
+            "stars": 10826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hangfire",
+          "description": "Incredibly easy way to perform fire-and-forget, delayed and recurring jobs inside ASP.NET applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-20T12:19:41Z",
+            "owner": "HangfireIO",
+            "repo": "Hangfire",
+            "stars": 10117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RestSharp",
+          "description": "Simple .NET REST Client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-02T14:48:54Z",
+            "owner": "restsharp",
+            "repo": "RestSharp",
+            "stars": 9830
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentValidation",
+          "description": "A popular .NET validation library for building strongly-typed validation rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T12:15:35Z",
+            "owner": "FluentValidation",
+            "repo": "FluentValidation",
+            "stars": 9753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Refit",
+          "description": "The automatic type-safe REST library for .NET Core, Xamarin and .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T02:22:41Z",
+            "owner": "reactiveui",
+            "repo": "refit",
+            "stars": 9558
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blazor",
+          "description": "A .NET web framework using C#/Razor and HTML that runs in the browser with WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-25T11:20:31Z",
+            "owner": "AdrienTorris",
+            "repo": "awesome-blazor",
+            "stars": 9365
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ML.NET",
+          "description": "Open source and cross-platform machine learning framework for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T16:38:01Z",
+            "owner": "dotnet",
+            "repo": "machinelearning",
+            "stars": 9346
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ReactiveUI",
+          "description": "A composable, cross-platform model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:35:32Z",
+            "owner": "reactiveui",
+            "repo": "ReactiveUI",
+            "stars": 8529
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Serilog",
+          "description": "Easy to set up, diagnostic logging library for .NET applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T10:58:30Z",
+            "owner": "serilog",
+            "repo": "serilog",
+            "stars": 8033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Electron.NET",
+          "description": "Build cross-platform desktop apps with ASP.NET Core (Razor Pages, MVC, Blazor).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T07:45:16Z",
+            "owner": "ElectronNET",
+            "repo": "Electron.NET",
+            "stars": 7602
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSwag",
+          "description": "The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-21T10:29:45Z",
+            "owner": "RicoSuter",
+            "repo": "NSwag",
+            "stars": 7356
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MessagePack-CSharp",
+          "description": "Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T12:00:28Z",
+            "owner": "MessagePack-CSharp",
+            "repo": "MessagePack-CSharp",
+            "stars": 6769
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FASTER",
+          "description": "Fast persistent recoverable log and key-value store + cache, in C# and C++.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-09T17:58:24Z",
+            "owner": "microsoft",
+            "repo": "FASTER",
+            "stars": 6636
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Harmony",
+          "description": "A library for patching, replacing and decorating .NET and Mono methods during runtime.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-23T19:49:51Z",
+            "owner": "pardeike",
+            "repo": "Harmony",
+            "stars": 6613
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NLog",
+          "description": "Advanced and Structured Logging for Various .NET Platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T20:47:55Z",
+            "owner": "NLog",
+            "repo": "NLog",
+            "stars": 6544
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "moq",
+          "description": "Moq is a mocking library for .NET developed from scratch to take full advantage of .NET Linq expression trees and lambda expressions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T13:36:54Z",
+            "owner": "devlooped",
+            "repo": "moq",
+            "stars": 6401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stateless",
+          "description": "A simple library for creating state machines in C# code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-04T18:25:52Z",
+            "owner": "dotnet-state-machine",
+            "repo": "stateless",
+            "stars": 6236
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NAudio",
+          "description": "Audio and MIDI library for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T20:17:02Z",
+            "owner": "naudio",
+            "repo": "NAudio",
+            "stars": 6201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StackExchange.Redis",
+          "description": "StackExchange.Redis is a high-performance general-purpose Redis client for .NET languages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T11:40:42Z",
+            "owner": "StackExchange",
+            "repo": "StackExchange.Redis",
+            "stars": 6193
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Azure SDK for .NET",
+          "description": "This repository is for active development of the Azure SDK for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T04:12:50Z",
+            "owner": "Azure",
+            "repo": "azure-sdk-for-net",
+            "stars": 6034
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GraphQL for .NET",
+          "description": "An implementation of Facebook's GraphQL in .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T04:33:38Z",
+            "owner": "graphql-dotnet",
+            "repo": "graphql-dotnet",
+            "stars": 5991
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Workflow Core",
+          "description": "A lightweight embeddable workflow engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-15T17:30:56Z",
+            "owner": "danielgerlag",
+            "repo": "workflow-core",
+            "stars": 5911
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ChilliCream GraphQL Platform",
+          "description": "GraphQL server for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T01:01:12Z",
+            "owner": "ChilliCream",
+            "repo": "graphql-platform",
+            "stars": 5750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SkiaSharp",
+          "description": "Cross-platform 2D graphics API for .NET platforms based on Google's Skia Graphics Library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T02:16:34Z",
+            "owner": "mono",
+            "repo": "SkiaSharp",
+            "stars": 5548
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xamarin.Forms",
+          "description": "Quickly build native apps for iOS, Android, Windows and macOS, completely in C#.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-04-29T19:34:39Z",
+            "owner": "xamarin",
+            "repo": "Xamarin.Forms",
+            "stars": 5539
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pythonnet",
+          "description": "Python.NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-20T07:34:20Z",
+            "owner": "pythonnet",
+            "repo": "pythonnet",
+            "stars": 5508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swashbuckle.AspNetCore",
+          "description": "Swagger tooling for APIs built with ASP.NET Core. Generate beautiful API documentation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T10:45:54Z",
+            "owner": "domaindrivendev",
+            "repo": "Swashbuckle.AspNetCore",
+            "stars": 5497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CsvHelper",
+          "description": "A library for reading and writing CSV files. Extremely fast, flexible, and easy to use. Supports reading and writing of custom class objects.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-27T19:49:36Z",
+            "owner": "JoshClose",
+            "repo": "CsvHelper",
+            "stars": 5210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tye",
+          "description": "A tool that makes developing, testing, and deploying microservices and distributed applications easier.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-11-20T21:09:49Z",
+            "owner": "dotnet",
+            "repo": "tye",
+            "stars": 5208
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Akka.NET",
+          "description": "A professional-grade port of the popular Java/Scala framework Akka distributed actor framework to .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T20:36:11Z",
+            "owner": "akkadotnet",
+            "repo": "akka.net",
+            "stars": 5076
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "protobuf-net",
+          "description": "A contract-based serializer for .NET code, that happens to write data in the \"protocol buffers\" serialization format engineered by Google.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T22:18:01Z",
+            "owner": "protobuf-net",
+            "repo": "protobuf-net",
+            "stars": 4965
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Command Line Parser Library",
+          "description": "The Command Line Parser Library offers CLR applications a clean and concise API for manipulating command line arguments and related tasks, such as defining switches, options and verb commands.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-29T17:02:27Z",
+            "owner": "commandlineparser",
+            "repo": "commandline",
+            "stars": 4813
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Autofac",
+          "description": "An IoC container for Microsoft .NET. Autofac manages the dependencies between classes so that applications stay easy to change as they grow in size and complexity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-01T23:51:16Z",
+            "owner": "autofac",
+            "repo": "Autofac",
+            "stars": 4656
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xUnit",
+          "description": "xUnit.net is a free, open-source, community-focused unit testing tool for the .NET Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T20:03:02Z",
+            "owner": "xunit",
+            "repo": "xunit",
+            "stars": 4597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Flurl",
+          "description": "Fluent URL builder and testable HTTP client for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-01T23:14:30Z",
+            "owner": "tmenier",
+            "repo": "Flurl",
+            "stars": 4405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ExcelDataReader",
+          "description": "Lightweight and fast library written in C# for reading Microsoft Excel files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-06T19:25:14Z",
+            "owner": "ExcelDataReader",
+            "repo": "ExcelDataReader",
+            "stars": 4405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SSH.NET",
+          "description": "A Secure Shell (SSH) library for .NET, optimized for parallelism.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T22:31:46Z",
+            "owner": "sshnet",
+            "repo": "SSH.NET",
+            "stars": 4366
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Scrutor",
+          "description": "Assembly scanning and decoration extensions for Microsoft.Extensions.DependencyInjection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-23T15:16:44Z",
+            "owner": "khellang",
+            "repo": "Scrutor",
+            "stars": 4327
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DotNetty",
+          "description": "A port of Netty, an asynchronous event-driven network application framework for rapid development of maintainable high-performance protocol servers & clients.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-12T23:42:59Z",
+            "owner": "Azure",
+            "repo": "DotNetty",
+            "stars": 4250
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cake",
+          "description": "Cake (C# Make) is a build automation system with a C# DSL to do things like compiling code, copying files/folders, running unit tests, compressing files and building NuGet packages.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-17T13:09:54Z",
+            "owner": "cake-build",
+            "repo": "cake",
+            "stars": 4183
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DotnetSpider",
+          "description": "a .NET standard web crawling library. It is a lightweight, efficient and fast high-level web crawling & scraping framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-03T09:36:16Z",
+            "owner": "dotnetcore",
+            "repo": "DotnetSpider",
+            "stars": 4140
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Puppeteer Sharp",
+          "description": "A .NET port of the official Node.JS Puppeteer API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T19:42:39Z",
+            "owner": "hardkoded",
+            "repo": "puppeteer-sharp",
+            "stars": 3913
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fluent Assertions",
+          "description": "an extensive set of extension methods that allow you to more naturally specify the expected outcome of a TDD or BDD-style unit test.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T20:36:43Z",
+            "owner": "fluentassertions",
+            "repo": "fluentassertions",
+            "stars": 3816
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Math.NET Numerics",
+          "description": "An open-source numerical library for .Net, Silverlight and Mono.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-03-03T21:39:46Z",
+            "owner": "mathnet",
+            "repo": "mathnet-numerics",
+            "stars": 3761
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Npgsql",
+          "description": "A .NET data provider for PostgreSQL.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T12:36:57Z",
+            "owner": "npgsql",
+            "repo": "npgsql",
+            "stars": 3722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AutoFixture",
+          "description": "A library for .NET designed to minimize the 'Arrange' phase of your unit tests in order to maximize maintainability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T16:10:42Z",
+            "owner": "AutoFixture",
+            "repo": "AutoFixture",
+            "stars": 3537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shouldy",
+          "description": "Assertion framework which focuses on giving great error messages when the assertion fails while being simple and terse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T16:25:06Z",
+            "owner": "shouldly",
+            "repo": "shouldly",
+            "stars": 3404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlow.NET",
+          "description": ".NET Standard bindings for Google's TensorFlow for developing, training and deploying Machine Learning models in C# and F#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-01-22T15:46:45Z",
+            "owner": "SciSharp",
+            "repo": "TensorFlow.NET",
+            "stars": 3397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentFTP",
+          "description": "FluentFTP is a fully managed FTP and FTPS library for .NET & .NET Standard, optimized for speed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-27T21:47:27Z",
+            "owner": "robinrodricks",
+            "repo": "FluentFTP",
+            "stars": 3390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MongoDB C# Driver",
+          "description": ".NET Driver for MongoDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T14:24:26Z",
+            "owner": "mongodb",
+            "repo": "mongo-csharp-driver",
+            "stars": 3241
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cosmos",
+          "description": "An operating system \"construction kit\". Build your own OS using C#!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T18:07:49Z",
+            "owner": "CosmosOS",
+            "repo": "Cosmos",
+            "stars": 3180
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TensorFlowSharp",
+          "description": "TensorFlow API for .NET languages.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-01-12T14:41:05Z",
+            "owner": "migueldeicaza",
+            "repo": "TensorFlowSharp",
+            "stars": 3146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Noda Time",
+          "description": "An alternative date and time API for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-16T07:35:00Z",
+            "owner": "nodatime",
+            "repo": "nodatime",
+            "stars": 2994
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chromely",
+          "description": "Lightweight alternative to Electron.NET, Electron for .NET/.NET Core developers.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2023-01-15T23:12:16Z",
+            "owner": "chromelyapps",
+            "repo": "Chromely",
+            "stars": 2972
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NSubstitute",
+          "description": "A friendly substitute for .NET mocking libraries.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-11T10:58:24Z",
+            "owner": "nsubstitute",
+            "repo": "NSubstitute",
+            "stars": 2970
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xamarin.iOS & Xamarin.Mac",
+          "description": "SDKs that allow us to create native iOS, tvOS, watchOS and macOS applications using the same UI controls we would in Objective-C and Xcode, except with the flexibility and elegance of C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T02:04:48Z",
+            "owner": "dotnet",
+            "repo": "macios",
+            "stars": 2892
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Octokit",
+          "description": "Octokit is a client library targeting .NET Framework 4.6 or greater and .NET Standard 2.0 and above that provides an easy way to interact with the GitHub API.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T22:27:17Z",
+            "owner": "octokit",
+            "repo": "octokit.net",
+            "stars": 2856
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StyleCopAnalyzers",
+          "description": "An implementation of StyleCop rules using the .NET Compiler Platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-12-31T16:00:59Z",
+            "owner": "DotNetAnalyzers",
+            "repo": "StyleCopAnalyzers",
+            "stars": 2855
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YamlDotNet",
+          "description": "Low-level parsing and emitting of YAML as well as a high-level object model similar to XmlDocument. A serialization library is also included that allows to read and write objects from and to YAML streams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-06-26T22:46:55Z",
+            "owner": "aaubry",
+            "repo": "YamlDotNet",
+            "stars": 2852
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluentScheduler",
+          "description": "About Automated job scheduler with fluent interface for the .NET platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-19T02:17:27Z",
+            "owner": "fluentscheduler",
+            "repo": "FluentScheduler",
+            "stars": 2774
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ninject",
+          "description": "A lightning-fast, ultra-lightweight dependency injector for .NET applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-06-14T01:19:58Z",
+            "owner": "ninject",
+            "repo": "Ninject",
+            "stars": 2671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NUnit",
+          "description": "A unit-testing framework for all .NET languages. Initially ported from JUnit, the current production release, version 3, has been completely rewritten with many new features and support for a wide range of .NET platforms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T10:09:53Z",
+            "owner": "nunit",
+            "repo": "nunit",
+            "stars": 2628
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SharpCompress",
+          "description": "A fully managed C# library to deal with many compression types and formats.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-07T10:10:04Z",
+            "owner": "adamhathcock",
+            "repo": "sharpcompress",
+            "stars": 2577
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "scriptcs",
+          "description": "Write C# apps with a text editor, NuGet and the power of Roslyn!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-07-17T12:31:57Z",
+            "owner": "scriptcs",
+            "repo": "scriptcs",
+            "stars": 2489
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Brighter",
+          "description": "A Command Dispatcher and Command Processor. It can be used with an in-memory bus, or for interoperability in a microservices architecture, out of process via a wider range of middleware transports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-09T16:54:32Z",
+            "owner": "BrighterCommand",
+            "repo": "Brighter",
+            "stars": 2468
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CacheManager",
+          "description": "CacheManager is an open-source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-02-18T08:21:59Z",
+            "owner": "MichaCo",
+            "repo": "CacheManager",
+            "stars": 2419
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Docker.DotNet",
+          "description": ".NET (C#) Client Library for Docker API. This library allows you to interact with Docker Remote API endpoints in your .NET applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-28T14:08:51Z",
+            "owner": "dotnet",
+            "repo": "Docker.DotNet",
+            "stars": 2413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "React.NET",
+          "description": ".NET library for JSX compilation and server-side rendering of React components.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-03-02T10:29:21Z",
+            "owner": "reactjs",
+            "repo": "React.NET",
+            "stars": 2324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ServiceStack.Redis",
+          "description": "A simple, high-performance and feature-rich C# Client for Redis",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-02-16T04:46:00Z",
+            "owner": "ServiceStack",
+            "repo": "ServiceStack.Redis",
+            "stars": 2281
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RabbitMQ .NET client",
+          "description": "source code of the RabbitMQ .NET client. The client is maintained by the RabbitMQ team at VMware.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T18:44:00Z",
+            "owner": "rabbitmq",
+            "repo": "rabbitmq-dotnet-client",
+            "stars": 2277
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jwt.Net",
+          "description": "A JWT (JSON Web Token) implementation for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T01:29:57Z",
+            "owner": "jwt-dotnet",
+            "repo": "jwt",
+            "stars": 2195
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Xamarin.Android",
+          "description": "Open-source bindings of the Android SDK for use with .NET managed languages such as C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T04:08:19Z",
+            "owner": "dotnet",
+            "repo": "android",
+            "stars": 2133
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ".NET for Apache® Spark™",
+          "description": ".NET for Apache Spark provides high performance APIs for using Apache Spark from C# and F#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T04:42:13Z",
+            "owner": "dotnet",
+            "repo": "spark",
+            "stars": 2098
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LazyCache",
+          "description": "A simple in-memory caching service. It has a developer-friendly generics-based API and provides a thread-safe cache implementation that guarantees to only execute your cachable delegates once (it's lazy!).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-10-09T12:22:13Z",
+            "owner": "alastairtree",
+            "repo": "LazyCache",
+            "stars": 1757
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NEventStore",
+          "description": "A persistence agnostic Event Store for .NET.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-22T17:33:50Z",
+            "owner": "NEventStore",
+            "repo": "NEventStore",
+            "stars": 1615
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Coyote",
+          "description": "A tool designed to help ensure that your C# code is free of annoying concurrency bugs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-12-11T17:28:41Z",
+            "owner": "microsoft",
+            "repo": "coyote",
+            "stars": 1590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sieve",
+          "description": "Clean & extensible Sorting, Filtering, and Pagination for ASP.NET Core.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-05-27T20:13:20Z",
+            "owner": "Biarity",
+            "repo": "Sieve",
+            "stars": 1302
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AspLabs",
+          "description": "Repo for ASP.NET experiments that are not ready for a production release.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-10T23:14:43Z",
+            "owner": "aspnet",
+            "repo": "AspLabs",
+            "stars": 1225
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeFormatter",
+          "description": "A tool that uses Roslyn to automatically rewrite the source to follow our coding styles.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2022-07-11T17:29:55Z",
+            "owner": "dotnet",
+            "repo": "codeformatter",
+            "stars": 1223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "StyleCop",
+          "description": "Analyzes C# source code to enforce a set of style and consistency rules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-02-14T19:10:58Z",
+            "owner": "StyleCop",
+            "repo": "StyleCop",
+            "stars": 1223
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "try-convert",
+          "description": "This is a simple tool that will help in migrating .NET Framework projects to .NET Core.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "C#",
+            "last_commit": "2024-05-17T05:13:32Z",
+            "owner": "dotnet",
+            "repo": "try-convert",
+            "stars": 1159
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConsoleTable",
+          "description": "Have you ever just wanted to output flat structured POCO out to console? Sure you have!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-06-11T20:19:09Z",
+            "owner": "khalidabuhakmeh",
+            "repo": "ConsoleTables",
+            "stars": 1010
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InferSharp",
+          "description": "An interprocedural and scalable static code analyzer for C#.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-01-16T20:18:49Z",
+            "owner": "microsoft",
+            "repo": "infersharp",
+            "stars": 747
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Heroku .NET Core Buildpack",
+          "description": "The Buildpack supports C# and F# projects.to",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-04-23T06:50:46Z",
+            "owner": "jincod",
+            "repo": "dotnetcore-buildpack",
+            "stars": 744
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kurukuru",
+          "description": "Terminal Spinner library for .NET Core/Standard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2025-08-15T18:15:05Z",
+            "owner": "mayuki",
+            "repo": "Kurukuru",
+            "stars": 679
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Reaqtor",
+          "description": "a framework for reliable, stateful, distributed, and scalable event processing based on Reactive Extensions (Rx).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-08T08:06:21Z",
+            "owner": "reaqtive",
+            "repo": "reaqtor",
+            "stars": 648
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ConvNetSharp",
+          "description": "C# port of ConvNetJS. You can use ConvNetSharp to train and evaluate convolutional neural networks (CNN).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-12-29T13:27:36Z",
+            "owner": "cbovar",
+            "repo": "ConvNetSharp",
+            "stars": 473
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Couchbase .NET SDK",
+          "description": "The official Couchbase SDK for .NET Core and Full Frameworks.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T18:08:05Z",
+            "owner": "couchbase",
+            "repo": "couchbase-net-client",
+            "stars": 286
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Confluent's Apache Kafka .NET client",
+          "description": "confluent-kafka-dotnet is a lightweight wrapper around librdkafka, a finely tuned C client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-13T03:45:39Z",
+            "owner": "confluentinc",
+            "repo": "confluent-kafka-dotnet",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "fluent-cms",
+          "description": "RESTful CRUD (Create, Read, Update, Delete) APIs, Admin Panel web pages, a GraphQL-style query designer and a WYSIWYG web page designer, all fully configurable without writing code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-05-28T00:03:01Z",
+            "owner": "formcms",
+            "repo": "formcms",
+            "stars": 268
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LocalStack .Net Client",
+          "description": "This is an easy-to-use .NET client for LocalStack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-29T12:02:25Z",
+            "owner": "localstack-dotnet",
+            "repo": "localstack-dotnet-client",
+            "stars": 149
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AWS SDK for .NET",
+          "description": "The AWS SDK for .NET enables .NET developers to easily work with Amazon Web Services.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T19:00:15Z",
+            "owner": "aws",
+            "repo": "aws-sdk-net",
+            "stars": 131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AsyncMonolith",
+          "description": "Facilitates simple asynchronous messaging in dotnet apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-01-28T23:33:42Z",
+            "owner": "Timmoth",
+            "repo": "AsyncMonolith",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Occurify",
+          "description": "A powerful and intuitive .NET library for defining, filtering, transforming, and scheduling instant and period timelines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-07-31T15:32:56Z",
+            "owner": "Occurify",
+            "repo": "Occurify",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JustSaying",
+          "description": "A helpful library for publishing and consuming events/messages over SNS (SNS / SQS as a message bus).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-08-12T23:30:32Z",
+            "owner": "justeattakeaway",
+            "repo": "JustSaying",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Codez",
+          "description": "A library designed to help ease the process of generating codes for your end users that can be helpful for confirmation numbers, reservation systems, error codes, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2019-03-04T15:04:23Z",
+            "owner": "khalidabuhakmeh",
+            "repo": "codez",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SpecFlow",
+          "description": "A BDD solution for .NET. It provides test automation for .NET (.NET Framework, .NET Core and Mono), based on the Gherkin specification language and integrates with Visual Studio.",
+          "children": []
+        }
+      ],
+      "title": "📦 Libraries"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:12:49.901Z",
+    "original_repository": "JessicaBarclay/awesome-csharp",
+    "original_repository_sha": "7d13311fc5600b9663dc99fb04365b068f32b218",
+    "enhanced_repository": "enhansome/enhansome-csharp",
+    "enhanced_repository_description": null,
+    "title": "Awesome csharp with stars"
+  }
+}
